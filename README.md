@@ -1,4 +1,4 @@
-# Prueba Técnica – Ingeniero de Datos
+# Challenge – Ingeniero de Datos
 
 Solución completa: SQL Server, SSIS + endpoint en IIS, revisión de PySpark y bonus de riesgo.
 
