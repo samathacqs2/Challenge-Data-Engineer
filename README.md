@@ -9,9 +9,9 @@ Solución completa: SQL Server, SSIS + endpoint en IIS, revisión de PySpark y b
 03_pyspark/                       Ejercicio 3 (código corregido)
 ```
 
-## Orden de ejecución (≈ 3–4 h la primera vez)
 
-| Paso | Qué hacer | Archivo |
+
+| Paso | Qué hace | Archivo |
 |---|---|---|
 | 1 | Crear BD, tablas y datos de prueba (SSMS) | `01_sql/00_setup.sql` |
 | 2 | Ejercicio 1: ejecutar y capturar resultados | `01_sql/02_consultas.sql` |
