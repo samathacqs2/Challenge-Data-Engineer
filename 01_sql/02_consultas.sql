@@ -8,8 +8,7 @@
 USE EvaDB;
 GO
 
-/* ---------- VERSION B: robusta (recomendada) ----------
-   Usa EVA.Dim_Dia + collation CI_AI (insensible a mayusculas y tildes)
+/* Usa EVA.Dim_Dia + collation CI_AI (insensible a mayusculas y tildes)
    para que 'miercoles', 'MIÉRCOLES' y ' Miércoles ' se unifiquen en 'Miércoles'. */
 DROP TABLE IF EXISTS #Dias;
 
